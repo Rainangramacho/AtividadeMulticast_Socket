@@ -91,7 +91,7 @@ public class MulticastIP{
 				ms.send(pctVai);
 				if (flag) // se flag for true ele da um break e fecha a conexão
 					break; 
-				digitado = lerTeclado.nextLine();
+				digitado = lerTeclado.nextLine(); // o que o usuario digitar vai para digitado
 				if (digitado.equals("sair")){
 					digitado = "saiu...";
 					flag = true;

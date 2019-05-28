@@ -1,0 +1,11 @@
+1.
+-saber os usuarios que estao no grupo ao iniciar -----
+-ao sair do grupo enviar mensagem de "saiu" para os outros usuarios ----ok
+-as mensagens nao devem ser duplicadas, ou seja, escrita e recebida pelo mesmo usuário -------
+
+
+2.
+-pode ser informado dois argumentos (ip de destino e porta),nenhum argumento, ou apenas o ip de destino ------- ok
+
+3.
+-caso o usuário fique 60 em inatividade, ele tem que ser desconectado do chat.
